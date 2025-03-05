@@ -1,0 +1,6 @@
+C:\Users\Ezekiel\Desktop\API Projects\Property and Supply Management System API\Property And Supply Management API\PSMDB\bin\Debug\PSMDB.dacpac
+C:\Users\Ezekiel\Desktop\API Projects\Property and Supply Management System API\Property And Supply Management API\PSMDB\bin\Debug\PSMDB.dll
+C:\Users\Ezekiel\Desktop\API Projects\Property and Supply Management System API\Property And Supply Management API\PSMDB\bin\Debug\PSMDB.pdb
+C:\Users\Ezekiel\Desktop\API Projects\Property and Supply Management System API\Property And Supply Management API\PSMDB\obj\Debug\PSMDB.sqlproj.AssemblyReference.cache
+C:\Users\Ezekiel\Desktop\API Projects\Property and Supply Management System API\Property And Supply Management API\PSMDB\obj\Debug\PSMDB.dll
+C:\Users\Ezekiel\Desktop\API Projects\Property and Supply Management System API\Property And Supply Management API\PSMDB\obj\Debug\PSMDB.pdb

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PAS_API.props" />
+</Project>
