@@ -1,8 +1,10 @@
 using Microsoft.EntityFrameworkCore;
+using PAS_API;
 using PAS_API.Data;
 using PAS_API.Interface;
 using PAS_API.Middleware;
 using PAS_API.Repository;
+using PAS_API.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +19,9 @@ builder.Services.AddDbContext<PAS_API_DBContext>(options =>
 });
 builder.Services.AddScoped<IItemRepository, ItemRepository>();
 builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+builder.Services.AddHostedService<StatusUpdateBackgroundService>();
+builder.Services.AddHostedService<EmailSenderService>();
+builder.Services.AddSingleton<EmailSenderInformation>();
 
 var app = builder.Build();
 

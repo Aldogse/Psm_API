@@ -25,7 +25,7 @@ namespace PAS_API.Repository
 
         public async Task<List<Item>> GetItemsUnderMaintenanceAsync()
         {
-            return await _dbcontext.Items.Where(item => item.maintenance_date <= DateTime.Today).ToListAsync();
+            return await _dbcontext.Items.Where(item => item.maintenance_date < DateTime.Now).ToListAsync();
         }
 
         public async Task<pagination_model<ItemDetailsResponse>> paginated_response(int page_size, int current_page)
