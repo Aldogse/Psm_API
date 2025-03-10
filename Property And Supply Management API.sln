@@ -5,7 +5,9 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{5A83F072-1F66-4F6F-9644-824D940B4C45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAS_API", "PAS_API\PAS_API.csproj", "{831B530B-9B4B-4558-A66D-337FED7B50F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PAS_API", "PAS_API\PAS_API.csproj", "{831B530B-9B4B-4558-A66D-337FED7B50F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSM_Frontend.Web", "PSM_Frontend.Web\PSM_Frontend.Web.csproj", "{76439194-114B-470F-AE01-ACADF8991A8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{831B530B-9B4B-4558-A66D-337FED7B50F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{831B530B-9B4B-4558-A66D-337FED7B50F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{831B530B-9B4B-4558-A66D-337FED7B50F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76439194-114B-470F-AE01-ACADF8991A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76439194-114B-470F-AE01-ACADF8991A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76439194-114B-470F-AE01-ACADF8991A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76439194-114B-470F-AE01-ACADF8991A8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

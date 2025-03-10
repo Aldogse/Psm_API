@@ -22,7 +22,11 @@ builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
 builder.Services.AddHostedService<StatusUpdateBackgroundService>();
 builder.Services.AddHostedService<EmailSenderService>();
 builder.Services.AddSingleton<EmailSenderInformation>();
-
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowLocally",
+        policy => policy.WithOrigins("ezpsm.azurewebsites.net").AllowAnyMethod().AllowAnyHeader());
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -31,6 +35,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("AllowLocally");
 //app.UseMiddleware<ApiKeyMiddleWare>();
 app.UseHttpsRedirection();
 app.MapControllers();

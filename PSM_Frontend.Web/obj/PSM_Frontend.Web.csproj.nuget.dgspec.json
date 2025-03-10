@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\PSM_Frontend.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Ezekiel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ezekiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\PSM_Frontend.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\PSM_Frontend.Web.csproj",
+        "projectName": "PSM_Frontend.Web",
+        "projectPath": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\PSM_Frontend.Web.csproj",
+        "packagesPath": "C:\\Users\\Ezekiel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ezekiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
