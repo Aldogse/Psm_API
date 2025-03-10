@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\obj\\Debug\\net6.0\\build-gz\\hyV9BJ0f.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PSM_Frontend.Web.styles.css",
+      "PackagePath": "staticwebassets\\PSM_Frontend.Web.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Ezekiel\\Desktop\\API Projects\\Property and Supply Management System API\\Property And Supply Management API\\PSM_Frontend.Web\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PSM_Frontend.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PSM_Frontend.Web.props",
+      "PackagePath": "build\\PSM_Frontend.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PSM_Frontend.Web.props",
+      "PackagePath": "buildMultiTargeting\\PSM_Frontend.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PSM_Frontend.Web.props",
+      "PackagePath": "buildTransitive\\PSM_Frontend.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

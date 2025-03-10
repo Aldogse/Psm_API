@@ -9,6 +9,6 @@ builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("ezpsm.azurewebsites.net") });
-builder.Services.AddScoped<IDepartmentService, ProductsService>();
+builder.Services.AddScoped<IDepartmentService, DepartmentService>();
 
 await builder.Build().RunAsync();

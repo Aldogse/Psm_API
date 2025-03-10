@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PSM_Frontend.Web.props" />
+</Project>
